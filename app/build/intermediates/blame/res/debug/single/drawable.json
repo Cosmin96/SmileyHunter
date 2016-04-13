@@ -1,0 +1,598 @@
+[
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level5.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nobar.png",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\nobar.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy11.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level12.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level17.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level17.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level6.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level18.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level18.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy1.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level20.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level20.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level9.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy1.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level15.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smiley.png",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\smiley.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy14.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level11.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level18.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level18.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy6.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level7.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level8.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level20.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level20.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy5.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level12.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy16.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy16.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy16.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy16.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level17.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level17.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level14.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level3.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy17.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy17.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level8.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar2.png",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\bar2.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level19.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level19.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy5.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level16.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level16.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy4.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy7.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy15.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nobar.png",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\nobar.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy8.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy10.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level1.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy10.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level3.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.jpeg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\menu.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy20.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy20.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy9.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level11.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar2.png",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\bar2.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy14.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy15.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy12.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar4.png",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\bar4.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right.png",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level15.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level7.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy13.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy4.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level5.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level9.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level2.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar3.png",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\bar3.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left.png",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level10.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy6.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level6.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level16.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level16.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.jpeg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\menu.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy12.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy8.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy18.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy18.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level14.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy2.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar3.png",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\bar3.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right.png",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doge.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\doge.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy19.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy19.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy9.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level13.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar1.png",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\bar1.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level19.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level19.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy3.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level1.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left.png",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy13.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy18.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy18.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy3.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level13.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smiley.png",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\smiley.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar1.png",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\bar1.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level10.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level4.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\level4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy20.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy20.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy19.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy19.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy2.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy7.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level4.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy11.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\happy11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\happy17.jpg",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\happy17.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level2.jpg",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\src\\main\\res\\drawable\\level2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bar4.png",
+        "source": "C:\\Users\\Cosmin\\Desktop\\SmileyFever\\app\\src\\main\\res\\drawable\\bar4.png"
+    },
+    {
+        "merged": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Cosmin\\AndroidStudioProjects\\SmileyFever\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    }
+]

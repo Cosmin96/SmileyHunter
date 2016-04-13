@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.com.smileyfever"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Smiley Hunter"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity
+            android:name="app.com.smileyfever.Menu"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="app.com.smileyfever.MainGame"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="app.com.smileyfever.ScoreShower"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="app.com.smileyfever.Congratulations"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="app.com.smileyfever.Gallery"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>
